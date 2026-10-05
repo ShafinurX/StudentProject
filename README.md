@@ -1,3 +1,3 @@
-# Student Project - Main Branch
+# Student Project - Merged
 
- added from main branch.
+ both main and feature-about branches.
